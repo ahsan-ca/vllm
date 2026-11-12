@@ -517,7 +517,7 @@ steps:
   - vllm/model_executor/models/qwen3_next.py
   - tests/models/qwen3_5/
   commands:
-  - pytest -v -s models/qwen3_5/
+  - pytest -x -v -s models/qwen3_5/
 
 - label: ":computer: (CPU) Basic Models Other"
   key: basic-models-test-other-cpu
