@@ -48,3 +48,4 @@ install(CODE "
     file(WRITE \${DST_FILE} \"\${FILE_CONTENTS}\")
   endforeach()
 " COMPONENT tml_fa4)
+# Test edit for ci-infra#926; do not merge.
