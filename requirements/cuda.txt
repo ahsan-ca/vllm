@@ -31,3 +31,4 @@ tokenspeed-mla==2.0.3; platform_system == "Linux"
 
 # Humming kernels for quantization gemm
 humming-kernels[cu13]==0.1.20
+# Test edit for ci-infra#926; do not merge.
