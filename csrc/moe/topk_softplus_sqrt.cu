@@ -199,3 +199,5 @@ void topk_softplus_sqrt(
                     gating_output.scalar_type());
   }
 }
+
+// Test edit for vllm-project/ci-infra#950 and vllm-project/vllm#69685.
